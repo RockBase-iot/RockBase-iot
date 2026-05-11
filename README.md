@@ -24,11 +24,20 @@ Here are some ideas to get you started:
   Collabrate with [NMTech Team](https://github.com/NMminer1024/NMMiner), support the Normal Cheap Yellow Display 2.8 inch and the newest NM-CYD-C5 which use the ESP32-C5 dual-band wifi. Compatible with brucefw and Marauder projects.
   
 - [**`BruceDevices`**](https://github.com/BruceDevices/firmware)
+  
   The NM-CYD-C5 and NM-RF-HAT support the BruceDevices firmware application.
     
 - [**`NM-Display-28inch`**](https://github.com/RockBase-iot/NM-Display-28inch)
 
   The 2.8 inch ESP32-S3 display, co-developed with the NMTech Team. Designed for desktop AI assistants, smart home controllers and robotic applications like OpenClaw -- easy to use and versatile.
+
+  - [**`xiaozhi-esp32`**](https://github.com/RockBase-iot/xiaozhi-esp32)
+ 
+    The NM-Display-28inch support the project `xiaozhi-esp32`, which XiaoZhi AI chatbot leverages the AI capabilities of large models like Qwen / DeepSeek, and achieves multi-terminal control via the MCP protocol.
+
+- [**`esp-claw`**](https://github.com/RockBase-iot/esp-claw)
+
+  ESP-Claw is Espressif's Chat Coding AI agent framework for IoT devices. It defines device behavior through conversation and completes the full loop of sensing, decision-making, and execution locally on Espressif chips. Inspired by the OpenClaw concept and reimplemented in C, ESP-Claw is lightweight, intelligent, and continuously evolving. With just an ESP32-series chip that costs only a few dollars, you can experience what makes ESP-Claw so nimble. RockBase-iot brach `nm-cyd-c5` support board NM-CYD-C5, add built-in nmminer skill for managing NM's devices.
 
 ### 📰 Join Our Reddit Community
 
@@ -41,10 +50,11 @@ Get in touch with our team!
 
 | Platform | Link | Description |
 |----------|------|-------------|
-| 🌐 **Website** | [www.rockbase.shop](https://www.rockbase.shop/) | Official website, products and resources|
+| 🌐 **Website** | [www.rockbase.shop](https://www.rockbase.shop/) | Official website, products, blogs, resources|
 | 🛒 **AliExpress Store** | [RockBase IoT Store](https://github.com/RockBase-iot/RockBase-iot/blob/main/www.aliexpress.com/store/1105409298) | Purchase hardware and accessories |
 | 📧 **Email** | rockbase.iot@gmail.com / support@rockbaseiot.com | Support inquiries, partnerships, custom requests |
 | 🤖 **Telegram** | [t.me/rockbase_iot](https://t.me/rockbase_iot) | Community discussions, updates, instant notifications |
+| 📺 **Youtube** | [RockBase-IoT](https://www.youtube.com/@RockBase-IoT)| Product tutorials, tech reviews, development guides |
 
 ### 💡 Our Mission
 
