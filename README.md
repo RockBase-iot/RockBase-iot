@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 
   ESP-Claw is Espressif's Chat Coding AI agent framework for IoT devices. It defines device behavior through conversation and completes the full loop of sensing, decision-making, and execution locally on Espressif chips. Inspired by the OpenClaw concept and reimplemented in C, ESP-Claw is lightweight, intelligent, and continuously evolving. With just an ESP32-series chip that costs only a few dollars, you can experience what makes ESP-Claw so nimble. RockBase-iot brach `nm-cyd-c5` support board NM-CYD-C5, add built-in nmminer skill for managing NM's devices.
 
+- [**`NM-Display-420`**](https://github.com/RockBase-iot/NM-Display-420)
+
+  ESP32-S3 based 4.2-inch E-ink display board. Will publish soon.
+
 ### 📰 Join Our Reddit Community
 
 Want to get involved? Connect with other developers and share your projects!
@@ -50,8 +54,10 @@ Get in touch with our team!
 
 | Platform | Link | Description |
 |----------|------|-------------|
-| 🌐 **Website** | [www.rockbase.shop](https://www.rockbase.shop/) | Official website, products, blogs, resources|
-| 🛒 **AliExpress Store** | [RockBase IoT Store](https://github.com/RockBase-iot/RockBase-iot/blob/main/www.aliexpress.com/store/1105409298) | Purchase hardware and accessories |
+| 🌐 **Homepage** | [www.rockbaseiot.com](https://www.rockbaseiot.com/) | Official website |
+| 🌐 **Website** | [www.rockbase.shop](https://www.rockbase.shop/) | Official Shopify website, products, blogs, resources|
+| 🛒 **Amazon Store** | [RockBase IoT](https://www.amazon.com/dp/B0H1QCHMW6) | Amazon, purchase hardware and accessories |
+| 🛒 **AliExpress Store** | [RockBase IoT Store](https://www.aliexpress.com/store/1105409298) | Purchase hardware and accessories |
 | 📧 **Email** | rockbase.iot@gmail.com / support@rockbaseiot.com | Support inquiries, partnerships, custom requests |
 | 🤖 **Telegram** | [t.me/rockbase_iot](https://t.me/rockbase_iot) | Community discussions, updates, instant notifications |
 | 📺 **Youtube** | [RockBase-IoT](https://www.youtube.com/@RockBase-IoT)| Product tutorials, tech reviews, development guides |
