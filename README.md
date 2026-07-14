@@ -9,6 +9,20 @@
 
 On GitHub, we share tools, libraries, and reference implementations that power our own products. We believe in the power of open source to accelerate innovation in the industrial space.
 
+### 🚀 Latest Updates
+
+- [**wiki.rockbase.iot**](https://wiki.rockbase.iot/) is now live with product guides, development docs, and quick-start resources.
+- [**flash.rockbaseiot.com**](https://flash.rockbaseiot.com/) is now available as a web flashing platform for ESP32 devices:
+  - Browser-based flashing, making firmware download and deployment faster and easier for users.
+  - Supports common and popular community projects such as **Bruce**, **Marauder**, and **ESP-Claw**.
+  - Designed to help users quickly get started with supported RockBase-iot hardware and compatible ESP32 development boards.
+  - If you need additional firmware packages, device support, or workflow improvements, please contact us and we can work on the necessary additions and optimizations.
+- Next month we plan to launch a **K230 AI development board** with:
+  - **CanMV support**
+  - **Large model support**
+  - **6 TOPS equivalent computing power**
+  - **1GB runtime memory**
+
 ### 🔭 Featured Projects
 
 Here are some ideas to get you started:
