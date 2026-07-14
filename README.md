@@ -9,6 +9,16 @@
 
 On GitHub, we share tools, libraries, and reference implementations that power our own products. We believe in the power of open source to accelerate innovation in the industrial space.
 
+### 🚀 Latest Updates
+
+- [**wiki.rockbase.iot**](https://wiki.rockbase.iot/) is now live with product guides, development docs, and quick-start resources.
+- [**flash.rockbaseiot.com**](https://flash.rockbaseiot.com/) is now available as a web flashing tool for ESP32 device downloads.
+- Next month we plan to launch a **K230 AI development board** with:
+  - **CanMV support**
+  - **Large model support**
+  - **6 TOPS equivalent computing power**
+  - **1GB runtime memory**
+
 ### 🔭 Featured Projects
 
 Here are some ideas to get you started:
